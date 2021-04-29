@@ -22,7 +22,7 @@ describe Review do
       checkout: '2014-04-30',
       listing: listing,
       guest: logan
-    )
+    ) 
   end
   let(:review) do
     Review.create(
